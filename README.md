@@ -9,7 +9,7 @@
 
 Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
 
-<h3>This app is live at <strong><a>https://wizardly-shockley-db54f6.netlify.com/</a></strong></h3>
+<h3>This app is live at <strong>https://wizardly-shockley-db54f6.netlify.com/</strong></h3>
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://next.gatsbyjs.org/docs/gatsby-starters/)._
 
